@@ -75,6 +75,11 @@ git branch dev
 git checkout dev
 ```
 
+#### 在分支上实现修改这段话，然后再合并到master上
+```
+git merge dev
+```
+
 
 
 
