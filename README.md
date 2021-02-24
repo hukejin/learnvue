@@ -69,7 +69,7 @@ beforeUpdate/updated
 
 ## git学习
 #### 默认加入了master，并与远程的github上的项目连接
-#### 创建dev分支
+#### 创建dev分支,如果修改了一定要记得提交commit之后才行，要不只是工作区修改，没用
 ```
 git branch dev
 git checkout dev
