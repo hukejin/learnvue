@@ -67,6 +67,15 @@ beforeUpdate/updated
 此时加入了$nextTick方法，会在updated后进行调用，这个方法是用在进行数据获取后马上调用
 这样有回调可以在数据刷新界面后做下一步操作
 
+## git学习
+#### 默认加入了master，并与远程的github上的项目连接
+#### 创建dev分支
+```
+git branch dev
+git checkout dev
+```
+
+
 
 
 
